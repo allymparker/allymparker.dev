@@ -22,7 +22,6 @@ title: AllyMParker.dev
 email: ally@theparkers.xyz
 description: >-
   Be Brave, Be Bold, Be Kind.
-baseurl: "/allymparker.dev/" # the subpath of your site, e.g. /blog
 domain: "allymparker.github.io" # the subpath of your site, e.g. /blog
 url: "https://allymparker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
